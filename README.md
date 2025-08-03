@@ -1,4 +1,4 @@
-# Tıbbi Not Özetleyici - Flutter Uygulaması
+# Tıbbi Not Özetleyici 
 
 Bu proje, doktorlar, tıp öğrencileri ve hastalar için geliştirilen yapay zeka destekli bir mobil uygulamadır. Kullanıcılar, tıbbi metinlerini uygulamaya yapıştırarak Google Gemini API kullanılarak otomatik olarak özetlenmesini sağlar. Özetlenen metinler yerel veritabanında saklanır ve uygulama yeniden açıldığında geçmiş özetler görüntülenir.
 
