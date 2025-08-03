@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ytza_bootcamp_group185
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# YTZA_Bootcamp_Group185
+>>>>>>> 8d6aec89e478e7c1da6ca4314c5706479bceefc8
