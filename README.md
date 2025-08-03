@@ -4,6 +4,13 @@ Bu proje, doktorlar, tıp öğrencileri ve hastalar için geliştirilen yapay ze
 
 ---
 
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="assets/app_main.jpg" alt="Ana Ekran" style="width:45%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="assets/app_history.jpg" alt="Özetlerim Ekranı" style="width:45%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
+
+---
+
 ## Kullanım
 
 - Ana ekranda tıbbi metninizi yazın veya yapıştırın.  
